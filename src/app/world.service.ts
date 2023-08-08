@@ -5,7 +5,7 @@ import axios from 'axios';
   providedIn: 'root',
 })
 export class WorldService {
-  public url: string = `http://localhost:3000`;
+  public url: string = `threejsworld-gules.vercel.app/`;
 
   constructor() {}
 
