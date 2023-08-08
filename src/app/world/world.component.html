@@ -1,4 +1,10 @@
-<div *ngIf="true" class="label">
+<div *ngIf="showModal" class="label">
+  <button
+    style="align-self: flex-start; padding: 0.3rem"
+    (click)="closeModal()"
+  >
+    X
+  </button>
   <img src="{{ imageSrc }}" />
   <ul>
     <div class="list" *ngFor="let key of keysArray">

@@ -42,6 +42,7 @@ export class WorldComponent implements OnInit {
   public markerInfo: any;
   keysArray: string[];
   flagUrl;
+  showModal = false;
 
   constructor(
     private ngZone: NgZone,
@@ -254,6 +255,7 @@ export class WorldComponent implements OnInit {
   }
 
   onMarkerClick(object: THREE.Object3D) {
+    this.showModal = true;
     const city = this.allCities.data.find(
       (country) => country.country === object.name
     );
@@ -302,6 +304,10 @@ export class WorldComponent implements OnInit {
         map: obj.userData['flagUrl'],
       });
     });
+  }
+
+  closeModal() {
+    this.showModal = false;
   }
 
   private showLabel(marker) {
