@@ -1,0 +1,152 @@
+[
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.6895,
+    "longitude": 139.6917
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "latitude": 28.6139,
+    "longitude": 77.209
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "latitude": 31.2304,
+    "longitude": 121.4737
+  },
+  {
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "latitude": -23.5505,
+    "longitude": -46.6333
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "latitude": 19.076,
+    "longitude": 72.8777
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "latitude": 19.4326,
+    "longitude": -99.1332
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "latitude": 39.9042,
+    "longitude": 116.4074
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "latitude": 30.0444,
+    "longitude": 31.2357
+  },
+  {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "latitude": 23.8103,
+    "longitude": 90.4125
+  },
+  {
+    "city": "Osaka",
+    "country": "Japan",
+    "latitude": 34.6937,
+    "longitude": 135.5022
+  },
+  {
+    "city": "New York City",
+    "country": "USA",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "city": "Karachi",
+    "country": "Pakistan",
+    "latitude": 24.8607,
+    "longitude": 67.0011
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "latitude": -34.6037,
+    "longitude": -58.3816
+  },
+  {
+    "city": "Chongqing",
+    "country": "China",
+    "latitude": 29.4316,
+    "longitude": 106.9123
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "latitude": 41.0082,
+    "longitude": 28.9784
+  },
+  {
+    "city": "Kolkata",
+    "country": "India",
+    "latitude": 22.5726,
+    "longitude": 88.3639
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "latitude": 13.4095,
+    "longitude": 123.262
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "latitude": -22.9068,
+    "longitude": -43.1729
+  },
+  {
+    "city": "Tianjin",
+    "country": "China",
+    "latitude": 39.3434,
+    "longitude": 117.3616
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "latitude": -6.2088,
+    "longitude": 106.8456
+  },
+  {
+    "city": "London",
+    "country": "UK",
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "latitude": 13.7563,
+    "longitude": 100.5018
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "latitude": 55.7558,
+    "longitude": 37.6176
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "latitude": 19.4326,
+    "longitude":-99.1332
+  }
+]

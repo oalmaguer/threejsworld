@@ -1,0 +1,13 @@
+<div *ngIf="true" class="label">
+  <img src="{{ imageSrc }}" />
+  <ul>
+    <div class="list" *ngFor="let key of keysArray">
+      <li *ngIf="key !== '_id' && key !== 'flagUrl' && key !== 'flagLink'">
+        <span>
+          <strong>{{ key | replaceUnderscores | capitalize }}:</strong>
+          {{ markerInfo[key] }}
+        </span>
+      </li>
+    </div>
+  </ul>
+</div>

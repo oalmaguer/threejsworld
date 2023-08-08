@@ -1,0 +1,32 @@
+.label {
+  font-family: "Questrial", sans-serif;
+  z-index: 10000;
+  background-color: lightgray;
+  position: absolute;
+  margin: 2rem;
+  box-shadow: 0 29px 52px rgba(0, 0, 0, 0.4), 0 25px 16px rgba(0, 0, 0, 0.2);
+  font-family: "Inter", sans-serif;
+  max-height: calc(100vh - 200px);
+  overflow: auto;
+  background-color: whitesmoke;
+  opacity: 1;
+  color: black;
+  border-radius: 6px;
+  max-width: 250px;
+}
+
+.label li {
+  margin: 1rem;
+  list-style: none;
+}
+
+.label img {
+  max-width: 250px;
+  // max-height: 250px;
+  // border-radius: 50%;
+}
+
+.label img:hover {
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.5);
+}
